@@ -9,6 +9,6 @@ This project aims to perform a comprehensive analysis of a spreadsheet dataset. 
 The project provides a functionality to import the spreadsheet data into a suitable data structure for analysis. It supports various spreadsheet formats such as CSV, XLS, and XLSX.
 <h4 style="display: inline-block;">2. Data Exploration</h3>  
 The project offers exploratory data analysis (EDA) techniques to gain a deeper understanding of the dataset. It includes statistical summaries, visualizations, and distribution analyses to uncover patterns and relationships.
-<h4 style="display: inline-block;">3. Visualization</h4
+<h4 style="display: inline-block;">3. Visualization</h4>
 The project supports visualizing the analyzed data through various charts, graphs, and plots. It helps in presenting the findings effectively and facilitating better decision-making.
 
